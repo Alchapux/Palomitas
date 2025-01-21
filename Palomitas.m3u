@@ -1,5 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="001" tvg-name="Cine/TV Souto" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/55/592219.jpg", Harry Potter y la piedra filosofal
 https://stream-3891-64-63.cdnpvd.co/lmohpmvghiikkfn2mab7qoyvgxwmfjxh2z3ysasubqdk4uq526gckdyp2u/v.mp4
+#EXTINF:-1 tvg-id="001" tvg-name="Cine/TV Souto" tvg-logo="https://eu1-prod-images.disco-api.com/2024/08/12/4e544a64-46bc-4d05-8e93-8a0723432209.png?bf=0&f=jpg&p=true&q=70&w=1920", EUROSPORT 1 HD
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 
