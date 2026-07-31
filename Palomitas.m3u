@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canal1" tvg-name="Canal Ejemplo 1" tvg-logo="http://logo.com" group-title="General",Canal Ejemplo 1 (HD)
+#EXTINF:-1 tvg-id="001" tvg-name="Michael" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_519b251dcbf246df382adadb272a841a.jpg" group-title="Movies",Michael
 https://stream-4191-31-165.pkcdn.org/kqohorjfbqikkfn2mbnpslqvg62yledxpzubtkcljzvcnqyhuqk3hd7zfa/init-a1-x3.mp4
-
+#EXTINF:-1 tvg-id="002" tvg-name="Todo lo que nunca fuimos" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_9321a260a2e7c53bbec520be83918711.jpg" group-title="Movies",Todo lo que nunca fuimos
+https://stream-4191-31-165.pkcdn.org/kqohorjfbqikkfn2mbnpslqvg62yledxpzubtkcljzvcnqyhuqk3hd7zfa/init-a1-x3.mp4
